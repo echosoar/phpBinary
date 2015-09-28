@@ -54,8 +54,6 @@ function addzero($num){
 	return $zero;
 }
 function main($num){
-	echo '<hr>';
-	echo $num.' ：<br>';
 	if($num<0){
 		$s=1;
 		$num=-$num;
