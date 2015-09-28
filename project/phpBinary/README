@@ -1,0 +1,9 @@
+phpBinary
+
+Achieve binary operation by php
+
+Author:Echosoar
+
+Current project:
+
+1.floatToBinary(Convert  floating point numbers into IEEE 32bits binary numbers by php)
